@@ -1,0 +1,51 @@
+#content {
+  margin: 0 auto;
+  width: 900px;
+
+}
+
+
+#byline {
+font-family: Helvetica, sans-serif;
+font-size: 14px;
+font-style: italic;
+font-weight: bold;
+}
+h1{
+  font-size: 35px;
+  font-family: Helvetica, Sans-Serif;
+    color: #444444;
+    background-color: #FAFAFA;
+
+}
+.p{
+  font-size: 13px;
+  font-family: Georgia,Times,Times New Roman,serif;
+  margin: 0 auto;
+}
+.header{
+  margin: 0 auto;
+  width: 900px;
+  width: 100%;
+
+}
+.body{
+  margin: 0 auto;
+  height: 700px;
+  width: 1000px;
+}
+.caption{
+color: gray;
+font-size: 13px;
+}
+
+blockquote{
+  font: 16px/24px normal Helvetica, sans-serif;
+  font-style: italic;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  color: red;
+  margin-left: 50px;
+  padding-left: 15px;
+  border-left: 4px solid #ccc;
+}
