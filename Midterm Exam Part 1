@@ -1,0 +1,73 @@
+Questions
+1. In the sentence below, put in the necessary code that would allow
+users to click on the word Google and open Google's homepage in a new
+browser:
+Google is the best search engine in the world.
+
+Answer: <a href="https://www.google.com/">google</a>
+
+2. Describe the purpose of a DIV tag.
+
+Answer: The DIV tag is the generic container for content. A DIV has no effect on the actual content or the layout until it is styled to do so using CSS.
+
+3. Write out the basic structure of an HTML page, putting the basic tags
+in the correct position.  (Note: you don't need to connect it to a
+stylesheet or include DIV tags or anything like that).
+
+Answer:	<! doctype HTML>
+              <HTML>
+                  <head>
+                    <title></title>
+                        </head>
+                            <body>
+                        </body>
+
+
+4. There are two main "areas" or "sections" in the basic structure of an
+HTML page. In which area would you put a link to a stylesheet?
+
+Answer: Within the <head> section is where one would like a stylesheet.
+
+5. In which main "area" or "section" of an HTML page would you put text,
+images or DIV tags?
+
+Answer: Body section
+
+6. In the space below, put one DIV tag with a class of graphicbox and a
+second DIV tag with an ID of name.
+
+Answer: <div class="graphicbox">graphicbox</div>
+                                                <div id="name">name</div>
+
+7. In the space below, put one DIV tag with an ID of apples and a class
+of fruit.
+
+Answer:    <div id="apples" class="fruit">
+          </div>
+
+8. In the space below, write the correct CSS code to target a DIV with a
+class of fruit.  Make the color of the text black (#000000).
+
+Answer:  .fruit{
+  color: #000000,
+  }
+
+9. What tag would we use to include an image on an HTML page? Just give
+me the name of the tag, you don't have to write out all the code.
+
+Answer: <img>
+
+10. Why do we use media queries?
+
+Answer:A media query is a type of code that allows you to specify specific css for specific devices, screen size, etc.
+      For example, if you wanted to change the color of text depending on the size of a viewport (500px), you would use a media query.
+
+11. What is the main difference between a serif and a sans-serif font?
+
+Answer: A serif is a stroke that extends off of a letter for decoration. Alternatively, sans-serif fonts do not have these same decorative strokes that a serif would.
+
+12. Which of the following is a hexadecimal code?
+#FFCC33
+123,543,242
+101010101
+Answer: #FFCC33
