@@ -1,0 +1,93 @@
+/*--This is my stylesheet*/
+.header{
+  margin: 0 auto;
+  width: 900px;
+  width: 100%;
+
+}
+
+p{
+  font-size: 12px;
+  font-family: "Helvetica", Arial ,sans-serif;
+  margin: 0 auto;
+}
+h1{
+  font-size: 32px;
+  font-family: "Times New Roman", Sans-Serif;
+  text-align: center;
+    color: Blue;
+    ;
+}
+
+h2
+{font-size: 23px;
+font-family: "Courier", Sans-Serif;
+text-align: center;
+  color: red;
+  text-decoration: underline;
+  text-transform: uppercase;
+  display:block;
+
+}
+h3{
+  text-align: center;
+  font-family: "Courier", Sans-Serif;
+  color: red;
+  text-decoration: underline;
+  text-transform: uppercase;
+}
+#content {
+  margin: 0 auto;
+  width: 900px;
+
+}
+.body{
+  margin: 0 auto;
+  height: 700px;
+  width: 1000px;
+  background-color: #DBF9FC
+
+}
+#byline {
+font-family: "Helvetica", sans-serif;
+font-size: 18px;
+font-style: italic;
+font-weight: bold;
+text-align: center;
+color: red;
+
+}
+.caption{
+color: gray;
+font-size: 13px;
+}
+.image {
+    border: 0;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+    max-width: 100%;
+}
+blockquote{
+  font: 16px/24px "Courier" sans-serif;
+  font-style: italic;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  color: blue;
+  margin-left: 50px;
+  padding-left: 15px;
+  border-left: 4px solid #ccc;
+}
+body{
+  width: 100%;
+    height: 100%;
+  background-color: #DBF9FC
+}
+ul{
+text-align: center;
+ list-style-position: inside;
+}
+#top
+{
+  padding-top: 25px;
+}

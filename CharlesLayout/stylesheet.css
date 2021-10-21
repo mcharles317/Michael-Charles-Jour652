@@ -1,3 +1,4 @@
+/*--This is my stylesheet*/
 #content {
   margin: 0 auto;
   width: 900px;
@@ -18,7 +19,7 @@ h1{
     background-color: #FAFAFA;
 
 }
-.p{
+p{
   font-size: 13px;
   font-family: Georgia,Times,Times New Roman,serif;
   margin: 0 auto;
