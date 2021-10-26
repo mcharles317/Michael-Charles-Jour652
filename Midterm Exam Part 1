@@ -2,13 +2,14 @@ Questions
 1. In the sentence below, put in the necessary code that would allow
 users to click on the word Google and open Google's homepage in a new
 browser:
-Google is the best search engine in the world.
 
-Answer: <a href="https://www.google.com/">google</a>
+Answer:<a href="https://www.google.com/">Google</a> is the best search engine in the world.
+
+
 
 2. Describe the purpose of a DIV tag.
 
-Answer: The DIV tag is the generic container for content. A DIV has no effect on the actual content or the layout until it is styled to do so using CSS.
+Answer: The DIV tag is the generic container for content. A DIV has no effect on the actual content or the layout until it is styled to do so using CSS. It allows for easier organization of code.
 
 3. Write out the basic structure of an HTML page, putting the basic tags
 in the correct position.  (Note: you don't need to connect it to a
@@ -26,7 +27,7 @@ Answer:	<! doctype HTML>
 4. There are two main "areas" or "sections" in the basic structure of an
 HTML page. In which area would you put a link to a stylesheet?
 
-Answer: Within the <head> section is where one would like a stylesheet.
+Answer: Within the <head> section is where one would link a stylesheet.
 
 5. In which main "area" or "section" of an HTML page would you put text,
 images or DIV tags?

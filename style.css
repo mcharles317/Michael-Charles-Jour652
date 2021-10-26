@@ -1,0 +1,43 @@
+.header{
+  width: 100%;
+
+}
+.sectionheader{
+}
+body{margin: 0 auto;
+background-color: #DBF9FC
+}
+#top{
+text-align: center;
+padding-bottom: 55px;
+font-size: 1.75em;
+border-bottom: solid, 2px #00BFFF;
+}
+#section1{
+text-align: center
+}
+#about{
+  text-align: center;
+}
+.card{
+  margin: 0 auto;
+}
+#work{
+  text-align: center;
+}
+.body{
+  background-color:;
+}
+ul{
+  text-align: center;
+   list-style-position: inside
+}
+li{
+  font-family: 'Roboto Mono', monospace;
+}
+#expo{
+  padding-bottom: 55px;
+}
+p{
+  font-family: 'Roboto Mono', monospace;
+}
