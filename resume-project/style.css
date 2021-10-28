@@ -15,7 +15,7 @@ font-size: 1.75em;
 border-bottom: solid, 2px #00BFFF;
 }
 #section1{
-text-align: center
+text-align: left;
 }
 #about{
   text-align: center;
@@ -44,12 +44,26 @@ p{
 }
 h1{
   font-family: 'Montserrat', sans-serif;
+  font-style: italic;
+  font-weight: bolder;
+  color: #130A7B;
 }
 h2{
   font-family: 'Montserrat', sans-serif;
+  text-decoration: underline;
+  font-size: 20px;
 }
 h3{
   font-family: 'Montserrat', sans-serif;
+  font-size: 19px;
 }
 h4{
   font-family: 'Montserrat', sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+}
+.card-title{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  text-decoration: underline;
+}
