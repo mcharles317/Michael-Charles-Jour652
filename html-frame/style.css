@@ -27,3 +27,12 @@ p{
   margin: 0 auto;
   max-width: 90%;
 }
+.nav-logo{
+  color= #ffffff;
+  margin: 0 auto;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.bg-dark{
+  background: #000 !important;
+}
