@@ -1,6 +1,7 @@
 h1{
 text-align: center;
 font-family: 'Playfair Display', serif;
+color: #ffffff;
 
 }
 h2{
@@ -13,9 +14,11 @@ padding: 25px 0 25px 0;
 
 }
 h3{
+  font-family: 'Playfair Display', serif;
   text-align: center;
   font-size: 15px;
   font-weight: bolder;
+   color: #ffffff;
 }
 p{
   margin: 0 auto;
@@ -100,11 +103,11 @@ font-family: 'Montserrat', sans-serif;
   font-size: 3em;
   font-weight: 700;
   text-align: left;
-  padding: 25px 0 25px 0;
-  border-top: 1em solid #ffffff;
-   border-bottom: 1em solid #ffffff;
-   border-right: 1em solid #ffffff;
-    border-left: 1em solid #ffffff;
+  padding-bottom: 10px;
+  border-top: .5em solid #ffffff;
+   border-bottom: .5em solid #ffffff;
+   border-right: .5em solid #ffffff;
+    border-left: .5em solid #ffffff;
 text-align: center;
   margin-top: 20px;
 }
@@ -117,7 +120,6 @@ body{
   font-size: .5em;
   font-weight: 700;
   text-align: left;
-  padding: 15px 0 15px 0;
   margin-top: 20px;
   text-align: center;
 }
@@ -131,6 +133,23 @@ body{
 #graphic{
 
   padding-top: 30px;
+}
+#envi{
+  padding-bottom: 20px;
+}
+.end{
+  border-top: 1em solid #ffffff;
+   border-bottom: 1em solid #ffffff;
+   border-right: 1em solid #ffffff;
+    border-left: 1em solid #ffffff;
+    padding-bottom: 25px;
+}
+h4{
+  font-family: 'Playfair Display', serif;
+  font-style: italic;
+  text-decoration: underline;
+  color: #ffffff;
+  font-size: 1.25em
 }
 li{
   font-family: 'Montserrat', sans-serif;
