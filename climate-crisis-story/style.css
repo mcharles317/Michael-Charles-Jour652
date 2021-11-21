@@ -134,6 +134,9 @@ body{
 li{
   font-family: 'Montserrat', sans-serif;
 }
+#heatdeath{
+  place-items: center normal;
+}
 @media(max-width:550px){
   p {
     padding-left: 20px;
