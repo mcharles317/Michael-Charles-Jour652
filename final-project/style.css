@@ -1,0 +1,40 @@
+.hero-image{
+  width: 100%;
+
+}
+.hero-container{
+  position: relative;
+  text-align: center;
+  color: #ffffff;
+
+}
+.overlay{
+  position: absolute;
+  top: 78%;
+  width: 100%;
+background: black;
+  opacity: .7;
+}
+.hero-hed{
+  font-size: 3em;
+  color: #ffffff,
+  margin: 0 auto;
+  padding-bottom: 10px;
+  font-family: 'Playfair Display', serif;
+}
+.hero-sub
+{
+  font-size: 1.5em;
+  color: #ffffff;
+  margin: 0 auto;
+font-family: 'Montserrat', sans-serif;
+}
+.nav-right{
+  float: right;
+}
+.nav.center{
+  float: center;
+}
+.nav-left{
+  float: left;
+}
