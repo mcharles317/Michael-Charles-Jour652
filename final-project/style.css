@@ -44,6 +44,7 @@ h3{
 }
 p{
   font-family: 'Play', sans-serif;
+  text-align: left;
 
 }
 h2{
@@ -52,7 +53,7 @@ h2{
   text-align: center;
 }
 #intro{
-  text-align: center;
+  text-align: left;
 }
 .caption{
   text-align: center;
@@ -72,6 +73,7 @@ h2{
     border-left: .5em solid black;
 margin: 0 auto;
   margin-top: 20px;
+  background: #ADD8E6;
 }
 .quote-attribution{
     font-family: 'Barlow Condensed', sans-serif;
@@ -85,4 +87,44 @@ margin: 0 auto;
 #unseld{
   float: right;
 
+}
+.unseld{
+  width: 100%;
+}
+.mosley{
+  max-width: 100%;
+  width: 100%;
+}
+.row{
+  max-width: 100;
+}
+.container{
+  max-width: 90%;
+}
+.udoka{
+  width: 100%;
+}
+.smart{
+  width: 100%;
+}
+.green{
+  width: 100%;
+}
+#footer{
+  text-align: center;
+  color: #ffffff;
+}
+@media(max-width:550px){
+  p {
+    padding-left: 20px;
+    padding-right: 10px;
+  }
+  .chapter-image{
+    font-size: 1.25em;
+}
+.hero-hed{
+  font-size: 1em;
+}
+.hero-sub{
+  font-size: .75em;
 }
